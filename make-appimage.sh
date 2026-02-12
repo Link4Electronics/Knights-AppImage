@@ -13,7 +13,7 @@ export DESKTOP=/usr/share/applications/org.kde.knights.desktop
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/knights /usr/bin/gnuchessu /usr/bin/gnuchessx
+quick-sharun /usr/bin/knights /usr/bin/gnuchessu /usr/bin/gnuchessx /usr/bin/gnuchess
 
 # Additional changes can be done in between here
 
